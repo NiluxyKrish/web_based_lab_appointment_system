@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\sgic\Documents\CIS6003_Niluxy\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2341967092.index
+3159276505.index
+3605737170.index
+3830775161.index
+790562977.index
+480542108.index
